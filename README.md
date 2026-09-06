@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DhwanitKriplani/DhwanitKriplani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Dhwanit Kriplani**, an engineer passionate about **Robotics, Artificial Intelligence, and Automation**.
 
-Here are some ideas to get you started:
+### Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a hands-on engineer interested in building intelligent systems that combine **software, hardware, AI, and automation** to solve real-world problems.
+
+I enjoy understanding systems from the ground up and turning ideas into practical, working solutions.
+
+### What do I do?
+
+I work on projects across **robotics, AI, and automation** — from developing robotic systems and intelligent perception to building automated solutions and integrating hardware with software.
+
+My interests include making machines **perceive their environment, make decisions, move autonomously, and perform useful tasks with minimal human intervention.**
+
+### My Skill Set
+
+**Robotics**
+
+* ROS 2
+* Autonomous Systems
+* Robot Control
+* Sensor Integration
+* Robot Perception
+* Hardware–Software Integration
+* Robotics Prototyping
+
+**Artificial Intelligence**
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* AI-based Perception
+* Intelligent Decision Making
+
+**Automation**
+
+* Industrial & Process Automation
+* Automated Systems
+* Control Systems
+* Sensor & Actuator Integration
+* Hardware Automation
+* System Integration
+
+**Programming & Tools**
+
+* Python
+* C/C++
+* Linux
+* Git & GitHub
+* Algorithms & Problem Solving
+* Embedded Systems
+
+I like **building, experimenting, breaking things, understanding why they failed, and building them better.**
